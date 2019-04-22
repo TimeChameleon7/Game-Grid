@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameGrid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameGrid_jar</output-path>
+    <root id="archive" name="GameGrid.jar">
+      <element id="module-output" name="GameGrid" />
+    </root>
+  </artifact>
+</component>
